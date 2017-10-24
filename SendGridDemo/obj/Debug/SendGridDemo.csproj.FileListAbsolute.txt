@@ -1,0 +1,10 @@
+D:\NETProject\sendgrid-csharp-webapi-master\SendGridDemo\bin\Debug\SendGridDemo.exe.config
+D:\NETProject\sendgrid-csharp-webapi-master\SendGridDemo\bin\Debug\SendGridDemo.exe
+D:\NETProject\sendgrid-csharp-webapi-master\SendGridDemo\bin\Debug\SendGridDemo.pdb
+D:\NETProject\sendgrid-csharp-webapi-master\SendGridDemo\bin\Debug\RestSharp.dll
+D:\NETProject\sendgrid-csharp-webapi-master\SendGridDemo\bin\Debug\SendGrid.SmtpApi.dll
+D:\NETProject\sendgrid-csharp-webapi-master\SendGridDemo\bin\Debug\SendGridMail.dll
+D:\NETProject\sendgrid-csharp-webapi-master\SendGridDemo\bin\Debug\RestSharp.xml
+D:\NETProject\sendgrid-csharp-webapi-master\SendGridDemo\obj\Debug\SendGridDemo.csprojResolveAssemblyReference.cache
+D:\NETProject\sendgrid-csharp-webapi-master\SendGridDemo\obj\Debug\SendGridDemo.exe
+D:\NETProject\sendgrid-csharp-webapi-master\SendGridDemo\obj\Debug\SendGridDemo.pdb

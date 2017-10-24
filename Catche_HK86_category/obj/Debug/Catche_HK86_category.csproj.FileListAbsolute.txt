@@ -1,0 +1,9 @@
+D:\NETProject\sendgrid-csharp-webapi-master\Catche_HK86_category\bin\Debug\Catche_HK86_category.exe.config
+D:\NETProject\sendgrid-csharp-webapi-master\Catche_HK86_category\bin\Debug\Catche_HK86_category.exe
+D:\NETProject\sendgrid-csharp-webapi-master\Catche_HK86_category\bin\Debug\Catche_HK86_category.pdb
+D:\NETProject\sendgrid-csharp-webapi-master\Catche_HK86_category\bin\Debug\HtmlAgilityPack.dll
+D:\NETProject\sendgrid-csharp-webapi-master\Catche_HK86_category\bin\Debug\HtmlAgilityPack.pdb
+D:\NETProject\sendgrid-csharp-webapi-master\Catche_HK86_category\bin\Debug\HtmlAgilityPack.xml
+D:\NETProject\sendgrid-csharp-webapi-master\Catche_HK86_category\obj\Debug\Catche_HK86_category.csprojResolveAssemblyReference.cache
+D:\NETProject\sendgrid-csharp-webapi-master\Catche_HK86_category\obj\Debug\Catche_HK86_category.exe
+D:\NETProject\sendgrid-csharp-webapi-master\Catche_HK86_category\obj\Debug\Catche_HK86_category.pdb

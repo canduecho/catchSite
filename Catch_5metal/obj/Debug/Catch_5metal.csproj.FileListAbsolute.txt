@@ -1,0 +1,11 @@
+D:\NETProject\sendgrid-csharp-webapi-master\Catch_5metal\bin\Debug\Catch_5metal.exe.config
+D:\NETProject\sendgrid-csharp-webapi-master\Catch_5metal\obj\Debug\Catch_5metal.csprojResolveAssemblyReference.cache
+D:\NETProject\sendgrid-csharp-webapi-master\Catch_5metal\bin\Debug\Catch_5metal.exe
+D:\NETProject\sendgrid-csharp-webapi-master\Catch_5metal\bin\Debug\Catch_5metal.pdb
+D:\NETProject\sendgrid-csharp-webapi-master\Catch_5metal\bin\Debug\HtmlAgilityPack.dll
+D:\NETProject\sendgrid-csharp-webapi-master\Catch_5metal\bin\Debug\Newtonsoft.Json.dll
+D:\NETProject\sendgrid-csharp-webapi-master\Catch_5metal\bin\Debug\HtmlAgilityPack.pdb
+D:\NETProject\sendgrid-csharp-webapi-master\Catch_5metal\bin\Debug\HtmlAgilityPack.xml
+D:\NETProject\sendgrid-csharp-webapi-master\Catch_5metal\bin\Debug\Newtonsoft.Json.xml
+D:\NETProject\sendgrid-csharp-webapi-master\Catch_5metal\obj\Debug\Catch_5metal.exe
+D:\NETProject\sendgrid-csharp-webapi-master\Catch_5metal\obj\Debug\Catch_5metal.pdb

@@ -1,0 +1,11 @@
+D:\NETProject\sendgrid-csharp-webapi-master\Catch_hk861\bin\Debug\Catch_hk861.exe.config
+D:\NETProject\sendgrid-csharp-webapi-master\Catch_hk861\obj\Debug\Catch_hk861.csprojResolveAssemblyReference.cache
+D:\NETProject\sendgrid-csharp-webapi-master\Catch_hk861\bin\Debug\Catch_hk861.exe
+D:\NETProject\sendgrid-csharp-webapi-master\Catch_hk861\bin\Debug\Catch_hk861.pdb
+D:\NETProject\sendgrid-csharp-webapi-master\Catch_hk861\bin\Debug\HtmlAgilityPack.dll
+D:\NETProject\sendgrid-csharp-webapi-master\Catch_hk861\bin\Debug\Newtonsoft.Json.dll
+D:\NETProject\sendgrid-csharp-webapi-master\Catch_hk861\bin\Debug\HtmlAgilityPack.pdb
+D:\NETProject\sendgrid-csharp-webapi-master\Catch_hk861\bin\Debug\HtmlAgilityPack.xml
+D:\NETProject\sendgrid-csharp-webapi-master\Catch_hk861\bin\Debug\Newtonsoft.Json.xml
+D:\NETProject\sendgrid-csharp-webapi-master\Catch_hk861\obj\Debug\Catch_hk861.exe
+D:\NETProject\sendgrid-csharp-webapi-master\Catch_hk861\obj\Debug\Catch_hk861.pdb

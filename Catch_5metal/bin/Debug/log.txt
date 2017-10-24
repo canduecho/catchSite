@@ -1,0 +1,34 @@
+||   at System.Net.ConnectStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at System.IO.StreamReader.ReadBuffer()
+   at System.IO.StreamReader.ReadToEnd()
+   at HtmlAgilityPack.HtmlDocument.Load(TextReader reader) in d:\Source\htmlagilitypack.new\Trunk\HtmlAgilityPack\HtmlDocument.cs:line 612
+   at HtmlAgilityPack.HtmlDocument.Load(Stream stream, Boolean detectEncodingFromByteOrderMarks) in d:\Source\htmlagilitypack.new\Trunk\HtmlAgilityPack\HtmlDocument.cs:line 527
+   at HtmlAgilityPack.HtmlWeb.Get(Uri uri, String method, String path, HtmlDocument doc, IWebProxy proxy, ICredentials creds) in d:\Source\htmlagilitypack.new\Trunk\HtmlAgilityPack\HtmlWeb.cs:line 1422
+   at HtmlAgilityPack.HtmlWeb.LoadUrl(Uri uri, String method, WebProxy proxy, NetworkCredential creds) in d:\Source\htmlagilitypack.new\Trunk\HtmlAgilityPack\HtmlWeb.cs:line 1479
+   at HtmlAgilityPack.HtmlWeb.Load(String url, String method) in d:\Source\htmlagilitypack.new\Trunk\HtmlAgilityPack\HtmlWeb.cs:line 1106
+   at HtmlAgilityPack.HtmlWeb.Load(String url) in d:\Source\htmlagilitypack.new\Trunk\HtmlAgilityPack\HtmlWeb.cs:line 1061
+   at Catch_5metal.Program.Main(String[] args) in d:\NETProject\sendgrid-csharp-webapi-master\Catch_5metal\Program.cs:line 140 exec [dbo].insertgrabpost{@categoryid=N'1858',
+@title=N'源豐五金 (中港貨運)',
+@summary=N'',
+@postcontent=N'',
+@keyword=N'五金製品,鋼鐵製品',
+@district=N'旺角',
+@membername=N'',
+@memberemail=N'yuenfung.hwco@gmail.com',
+@memberavator=N'',
+@membermobile=N'',
+@membercontactno=N'',
+@memberaddress=N'九龍旺角廣東道 900-904號昌華商業大廈地下 C 舗',
+@memberwebsite=N'',
+@postcontactno1=N'23741779 , 23741788',
+@postcontactno2=N'94984677',
+@postaddress=N'九龍旺角廣東道 900-904號昌華商業大廈地下 C 舗',
+@postlatitude=N'0',
+@postlongitude=N'0',
+@contactemail=N'',
+@memberdesc=N'',
+@sourceSite=N'5metal',
+@sourceRefID=N'3551',
+@postdata=N'',
+@averageprice=N'0',
+}||detailId:6197

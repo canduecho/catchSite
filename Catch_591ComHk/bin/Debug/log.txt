@@ -1,0 +1,35 @@
+﻿||   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at Catch_591ComHk.SQLHelper.RunProc(String procName, SqlParameter[] prams) in d:\NETProject\sendgrid-csharp-webapi-master\Catch_591ComHk\SQLHelper.cs:line 152
+   at Catch_591ComHk.Program.Main(String[] args) in d:\NETProject\sendgrid-csharp-webapi-master\Catch_591ComHk\Program.cs:line 587 exec [dbo].insertgrabpost{@categoryid=N'1338',
+@title=N'九肚山新盤玖瓏山',
+@summary=N'設施齊備,傢電靚裝,廳大房大,環境清幽全新2房,巨廳內園,&nbsp;有匙即睇平租,&nbsp;只求好租客新樓有電氣傢私穿梭巴士,&nbsp;來往火炭,大圍穿梭巴士,&nbsp;來往火炭,大圍',
+@postcontent=N'設施齊備,傢電靚裝,廳大房大,環境清幽全新2房,巨廳內園,&nbsp;有匙即睇平租,&nbsp;只求好租客新樓有電氣傢私穿梭巴士,&nbsp;來往火炭,大圍穿梭巴士,&nbsp;來往火炭,大圍',
+@keyword=N'',
+@district=N'',
+@membername=N'Wong ',
+@memberemail=N'wingsai@yahoo.com.hk',
+@memberavator=N'',
+@membermobile=N'',
+@membercontactno=N'',
+@memberaddress=N'',
+@memberwebsite=N'',
+@postcontactno1=N'9654 7360',
+@postcontactno2=N'',
+@postaddress=N'麗坪路33號',
+@postlatitude=N'0',
+@postlongitude=N'0',
+@contactemail=N'',
+@memberdesc=N'設施齊備,傢電靚裝,廳大房大,環境清幽全新2房,巨廳內園,&nbsp;有匙即睇平租,&nbsp;只求好租客新樓有電氣傢私穿梭巴士,&nbsp;來往火炭,大圍穿梭巴士,&nbsp;來往火炭,大圍',
+@sourceSite=N'591ComHk',
+@sourceRefID=N'R618157',
+@postdata=N'<fields><fielddata id="averageprice" srctype="freetext"><data>23,000</data></fielddata><fielddata id="propperroom" srctype="schema"><data>aaa02</data></fielddata><fielddata id="saleablearea" srctype="freetext"><data><em>面積</em><p>691呎（實）</data></fielddata><fielddata id="grossarea" srctype="freetext"><data>850呎（建）</p></data></fielddata><fielddata id="propertype" srctype="schema"><data>aaa08</data></fielddata><fielddata id="propertitlechi" srctype="freetext"><data>玖瓏山</data></fielddata><fielddata id="decoration" srctype="schema"><data>den02</data></fielddata><fielddata id="properfloor" srctype="schema"><data>aaa04</data></fielddata><fielddata id="properdir" srctype="schema"><data>aaa02</data></fielddata><fielddata id="properview" srctype="schema"><data>aaa03</data></fielddata><fielddata id="homeappliances" srctype="schema"><data>hom07</data><data>hom06</data><data>hom08</data><data>hom01</data><data>hom05</data><data>hom02</data></fielddata></fields>',
+@averageprice=N'23,000',
+}||detailId:R618157

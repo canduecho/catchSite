@@ -1,0 +1,11 @@
+D:\NETProject\sendgrid-csharp-webapi-master\Catch_esdlife\bin\Debug\Catch_esdlife.exe.config
+D:\NETProject\sendgrid-csharp-webapi-master\Catch_esdlife\obj\Debug\Catch_esdlife.csprojResolveAssemblyReference.cache
+D:\NETProject\sendgrid-csharp-webapi-master\Catch_esdlife\bin\Debug\Catch_esdlife.exe
+D:\NETProject\sendgrid-csharp-webapi-master\Catch_esdlife\bin\Debug\Catch_esdlife.pdb
+D:\NETProject\sendgrid-csharp-webapi-master\Catch_esdlife\bin\Debug\HtmlAgilityPack.dll
+D:\NETProject\sendgrid-csharp-webapi-master\Catch_esdlife\bin\Debug\Newtonsoft.Json.dll
+D:\NETProject\sendgrid-csharp-webapi-master\Catch_esdlife\bin\Debug\HtmlAgilityPack.pdb
+D:\NETProject\sendgrid-csharp-webapi-master\Catch_esdlife\bin\Debug\HtmlAgilityPack.xml
+D:\NETProject\sendgrid-csharp-webapi-master\Catch_esdlife\bin\Debug\Newtonsoft.Json.xml
+D:\NETProject\sendgrid-csharp-webapi-master\Catch_esdlife\obj\Debug\Catch_esdlife.exe
+D:\NETProject\sendgrid-csharp-webapi-master\Catch_esdlife\obj\Debug\Catch_esdlife.pdb

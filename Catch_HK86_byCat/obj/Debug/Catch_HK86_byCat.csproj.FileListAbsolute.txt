@@ -1,0 +1,10 @@
+D:\NETProject\sendgrid-csharp-webapi-master\Catch_HK86_byCat\bin\Debug\Catch_HK86_byCat.exe.config
+D:\NETProject\sendgrid-csharp-webapi-master\Catch_HK86_byCat\bin\Debug\Catch_HK86_byCat.exe
+D:\NETProject\sendgrid-csharp-webapi-master\Catch_HK86_byCat\bin\Debug\Catch_HK86_byCat.pdb
+D:\NETProject\sendgrid-csharp-webapi-master\Catch_HK86_byCat\bin\Debug\HtmlAgilityPack.dll
+D:\NETProject\sendgrid-csharp-webapi-master\Catch_HK86_byCat\bin\Debug\Newtonsoft.Json.dll
+D:\NETProject\sendgrid-csharp-webapi-master\Catch_HK86_byCat\bin\Debug\HtmlAgilityPack.pdb
+D:\NETProject\sendgrid-csharp-webapi-master\Catch_HK86_byCat\bin\Debug\HtmlAgilityPack.xml
+D:\NETProject\sendgrid-csharp-webapi-master\Catch_HK86_byCat\bin\Debug\Newtonsoft.Json.xml
+D:\NETProject\sendgrid-csharp-webapi-master\Catch_HK86_byCat\obj\Debug\Catch_HK86_byCat.exe
+D:\NETProject\sendgrid-csharp-webapi-master\Catch_HK86_byCat\obj\Debug\Catch_HK86_byCat.pdb

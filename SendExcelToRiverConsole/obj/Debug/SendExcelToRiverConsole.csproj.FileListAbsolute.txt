@@ -1,0 +1,9 @@
+D:\NETProject\sendgrid-csharp-webapi-master\SendExcelToRiverConsole\bin\Debug\SendExcelToRiverConsole.exe.config
+D:\NETProject\sendgrid-csharp-webapi-master\SendExcelToRiverConsole\bin\Debug\SendExcelToRiverConsole.exe
+D:\NETProject\sendgrid-csharp-webapi-master\SendExcelToRiverConsole\bin\Debug\SendExcelToRiverConsole.pdb
+D:\NETProject\sendgrid-csharp-webapi-master\SendExcelToRiverConsole\obj\Debug\SendExcelToRiverConsole.exe
+D:\NETProject\sendgrid-csharp-webapi-master\SendExcelToRiverConsole\obj\Debug\SendExcelToRiverConsole.pdb
+D:\NETProject\sendgrid-csharp-webapi-master\SendExcelToRiverConsole\bin\Debug\HtmlAgilityPack.dll
+D:\NETProject\sendgrid-csharp-webapi-master\SendExcelToRiverConsole\bin\Debug\HtmlAgilityPack.pdb
+D:\NETProject\sendgrid-csharp-webapi-master\SendExcelToRiverConsole\bin\Debug\HtmlAgilityPack.xml
+D:\NETProject\sendgrid-csharp-webapi-master\SendExcelToRiverConsole\obj\Debug\SendExcelToRiverConsole.csprojResolveAssemblyReference.cache

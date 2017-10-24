@@ -1,0 +1,3 @@
+System.InvalidCastException: Specified cast is not valid.
+   at CacthGOVJOBDATA.SQLHelper.RunProc(String procName, SqlParameter[] prams) in d:\NETProject\sendgrid-csharp-webapi-master\Catch_hk861\SQLHelper.cs:line 154
+   at Catch_hk861.Program.Main(String[] args) in d:\NETProject\sendgrid-csharp-webapi-master\Catch_hk861\Program.cs:line 168
